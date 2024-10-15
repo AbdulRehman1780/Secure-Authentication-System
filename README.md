@@ -50,7 +50,7 @@ This project aims to develop a secure login system with two-factor authenticatio
 2. Start the Flask server:
    ```bash
    flask run
-3. Open your browser and go to http://127.0.0.1:5000/.
+3. Open your browser and go to http://127.0.0.1:5000/register.
 
 
 ## Current Functionalities (Phase 1)
