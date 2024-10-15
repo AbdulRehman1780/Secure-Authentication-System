@@ -24,8 +24,8 @@ This project aims to develop a secure login system with two-factor authenticatio
 ### 2. Installation  
 1. Clone the repository to your local machine:
    ```bash
-   git clone <your-repo-link>
-   cd <your-repo-directory>
+   git clone https://github.com/AbdulRehman1780/Secure-Authentication-System.git
+   cd Secure-Authentication-System
 2. Create a virtual environment:
    ```bash
    python -m venv venv
